@@ -12,14 +12,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=doanhaoCoder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=doanhaoCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/doanhaocoder) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/doanhaocoder) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
